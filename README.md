@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=gabrielsimongianotti&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ![Hey there, I'm Gabriel. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/gabrielsimongianotti/gabrielsimongianotti/raw/master/bio.gif)
 
 <!--
